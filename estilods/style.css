@@ -12,9 +12,11 @@ h1{
     font-size: 50px;
 }
 
-div {
-    background-color: cadetblue;
-    background-size: 1;
+.topo {
+    background-color: rgb(126, 183, 185);
+    position: relative;
+    margin: -1%;
+    padding: 1rem;
 }
 main {
     background-color: white;
