@@ -12,7 +12,7 @@ main, body {
 .topo {
         background-color: rgb(126, 183, 185);
         position: relative;
-        margin: -1%;
+        margin: 0%;
         padding: 1rem;
 }
 
